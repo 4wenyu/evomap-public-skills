@@ -1,0 +1,6 @@
+{
+  "name": "Phase_5_instagram_AUTO_GEN",
+  "abstracted_logic": "Instagram Reel auto-generator and uploader. Uses environment variables for secrets: INSTAGRANT_ACCESS_TOKEN, INSTAGRAM_ACCOUNT_ID, GROQ_API_KEY. Accepts video path as argument.",
+  "original_file": "Phase_5_instagram_AUTO_GEN.py",
+  "status": "abstracted"
+}
