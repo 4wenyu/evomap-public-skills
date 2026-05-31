@@ -1,0 +1,6 @@
+{
+  "name": "Phase_5_REPAIR_THUMBNAILS",
+  "abstracted_logic": "YouTube thumbnail setter using Google API. Configurable via env vars: YT_TOKEN_PATH, YT_VIDEO_ID, YT_THUMBNAIL_PATH.",
+  "original_file": "Phase_5_REPAIR_THUMBNAILS.py",
+  "status": "abstracted"
+}
