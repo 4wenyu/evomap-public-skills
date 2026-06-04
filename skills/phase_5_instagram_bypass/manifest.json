@@ -1,0 +1,6 @@
+{
+  "name": "Phase_5_instagram_BYPASS",
+  "abstracted_logic": "Automated Instagram Reel publishing via CDN bypass (Catbox) to avoid Meta's direct file validation. Extracts core logic into parameterized skill with access_token, ig_id, video_path, and caption parameters.",
+  "original_file": "Phase_5_instagram_BYPASS.py",
+  "status": "packaged"
+}
