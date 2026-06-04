@@ -1,0 +1,6 @@
+{
+  "name": "Phase_5_instagram_CLOUDFLARE",
+  "abstracted_logic": "Automated Instagram Reel publishing via Cloudflare Tunnel to avoid local file path issues. Extracts core logic into parameterized skill with access_token, instagram_account_id, tunnel_url, filename, and caption parameters.",
+  "original_file": "Phase_5_instagram_CLOUDFLARE.py",
+  "status": "packaged"
+}
