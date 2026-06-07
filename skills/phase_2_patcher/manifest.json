@@ -1,0 +1,6 @@
+{
+  "name": "phase_2_patcher",
+  "abstracted_logic": "Automated skill for phase_2_patcher. See source file for details.",
+  "original_file": "phase_2_patcher.py",
+  "status": "abstracted"
+}
